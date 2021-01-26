@@ -1,2 +1,2 @@
 # FarkasCertificate
-Given an infeasible linear programming problem, this package aim to provide Farkas Certificate of infeasibility using b-rule algorithm. 
+Given an infeasible linear programming problem, this package aim to provide Farkas Certificate of infeasibility using b-rule algorithm. Even though the computational complexity of this algorithm is exponential, we first want to develop this package to help users who are looking for Farkas Certificate of an LP problem but solvers simply do not provide it. Later, we aim to include Infeasible Interior Point method to retrieve Farkas Certificate from an infeasible linear programming problem.
